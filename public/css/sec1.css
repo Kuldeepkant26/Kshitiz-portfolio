@@ -11,7 +11,7 @@
     align-items: center;
     justify-content: center;
     overflow: visible;
-    
+
 }
 
 
@@ -24,7 +24,8 @@
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    padding-top: 7rem;
+    padding-top: 3rem;
+    padding-left: 1rem;
     background: #ffffff;
     box-shadow: 47px 47px 94px #969696,
         -47px -47px 94px #ffffff;
@@ -33,7 +34,7 @@
 
 .sec1 .myimg img {
     width: 30vw;
-  
+
 
 }
 
